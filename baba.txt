@@ -1,5 +1,4 @@
 #profile-title: Впн от темы
-#profile-update-interval: 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#🇩🇪 ЧЕРНЫЕ СПИСКИ 1  
 hysteria2://strong-secret-pass-777@45.82.245.37:444?sni=www.microsoft.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#ЧЕРНЫЕ СПИСКИ 2 
 hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇳🇱 ЧЕРНЫЕ СПИСКИ 5
