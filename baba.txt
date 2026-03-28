@@ -1,7 +1,19 @@
 #profile-title: Впн от темы
 #profile-update-interval: 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#Черные списки 1 🇩🇪 Германия
-hysteria2://strong-secret-pass-777@45.82.245.37:444?sni=www.microsoft.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#Черные списки 2 Неизвестно 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#🇩🇪 ЧЕРНЫЕ СПИСКИ 1  
+hysteria2://strong-secret-pass-777@45.82.245.37:444?sni=www.microsoft.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#ЧЕРНЫЕ СПИСКИ 2 
+vless://2bf53570-feda-4b8e-bc4e-f28d34606308@185.130.113.78:7443?type=grpc&security=reality&encryption=none&pbk=k1RvyxdT_WW0zoq4gGVdeojLLY9rH8-4hO244idbwxY&sni=max.ru&mode=multi&serviceName=GG#| 🇷🇺 ЧЕРНЫЕ СПИСКИ 3
+vless://2bf53570-feda-4b8e-bc4e-f28d34606308@185.130.113.78:7443?type=grpc&security=reality&encryption=none&pbk=k1RvyxdT_WW0zoq4gGVdeojLLY9rH8-4hO244idbwxY&sni=max.ru&mode=multi&serviceName=GG#| 🇷🇺 ЧЕРНЫЕ СПИСКИ 4
+hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇳🇱 ЧЕРНЫЕ СПИСКИ 5
+hysteria2://strong-secret-pass-777@82.117.255.37:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇷🇴 ЧЕРНЫЕ СПИСКИ 6
+hysteria2://strong-secret-pass-777@94.131.101.19:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇺🇸 ЧЕРНЫЕ СПИСКИ 7
+vless://15041021-33ff-447e-bdd2-5a6f226f5ba2@de3.vpn-club-service.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yDPh2enztmRE8NH294bVNoILyZaQmZnH1gBvrd9RGQo&sid=a1b2c3d4&sni=help.max.ru# ЧЕРНЫЕ СПИСКИ 8
+hysteria2://strong-secret-pass-777@45.149.114.75:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇳🇱 ЧЕРНЫЕ СПИСКИ 9
+hysteria2://strong-secret-pass-777@45.120.179.89:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇧🇪  ЧЕРНЫЕ СПИСКИ 10
+vless://1fabb370-dac5-47cd-a2cb-f8e82ed9223b@ru.v2tunray.io:443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=_1Vo7MoIcb8M1u2e7BkXRQx52-ls3mnMqzTs-TrOjg0&sid=287d&sni=www.vk.com&host=vk.com&mode=auto# ЧЕРНЫЕ СПИСКИ 11
+hysteria2://strong-secret-pass-777@45.82.245.37:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇧🇷 ЧЕРНЫЕ СПИСКИ 12
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#| 🇳🇱 ЧЕРНЫЕ СПИСКИ 13
+hysteria2://strong-secret-pass-777@45.12.134.57:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇯🇵 ЧЕРНЫЕ СПИСКИ 14
 vless://099607cb-6964-000a-8e77-19604bb94bb3@89.208.222.204:443?type=tcp&security=reality&sni=5post-gate.x5.ru&fp=random&flow=xtls-rprx-vision&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#TCP Белые списки 1
 vless://3722f792-2c11-000a-b810-59f549989fe8@89.208.222.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#TCP Белые списки 2
 vless://419400b2-e1ed-000a-a5c4-bdc478c04a9b@89.208.222.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#TCP Белые списки 3
