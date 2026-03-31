@@ -1,9 +1,6 @@
 #profile-title: Впн от темы
-vless://38315d86-100e-4f49-9c6f-58da5242bcc4@95.85.248.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.oracle.com&fp=firefox&security=reality&pbk=odxN6TcYRwMQR27l_RA_6NOnRTuoeP_A7GphX5J5CSQ&sid=ae40ad2fdcdb2176#🇳🇱 Платные черные списки 1
-vless://38315d86-100e-4f49-9c6f-58da5242bcc4@51.250.28.135:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=N1HOd4Tx9j9Iewv3PiGcpoawGr5tq3O5xoKv_2W7xWk&sid=54dab0f6e9bf9e18#ПЛАТНЫЕ БЕЛЫЕ СПИСКИ 1
-vless://38315d86-100e-4f49-9c6f-58da5242bcc4@51.250.86.5:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=Hwodw89GLba65CMpzNVcUycU9n25tBZOOIlPZcwEk0o&sid=cc015aacdfd7cfd7#ПЛАТНЫЕ БЕЛЫЕ СПИСКИ 2
-vless://38315d86-100e-4f49-9c6f-58da5242bcc4@51.250.1.111:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=N1HOd4Tx9j9Iewv3PiGcpoawGr5tq3O5xoKv_2W7xWk&sid=54dab0f6e9bf9e18#ПЛАТНЫЕ БЕЛЫЕ СПИСКИ 3
-vless://38315d86-100e-4f49-9c6f-58da5242bcc4@51.250.84.253:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=N1HOd4Tx9j9Iewv3PiGcpoawGr5tq3O5xoKv_2W7xWk&sid=54dab0f6e9bf9e18#ПЛАТНЫЕ БЕЛЫЕ СПИСКИ 4
+vless://38315d86-100e-4f49-9c6f-58da5242bcc4@51.250.28.135:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=N1HOd4Tx9j9Iewv3PiGcpoawGr5tq3O5xoKv_2W7xWk&sid=54dab0f6e9bf9e18#ПЛАТНЫЕ БЕЛЫЕ СПИСКИ 1(иногда работают)
+vless://38315d86-100e-4f49-9c6f-58da5242bcc4@51.250.86.5:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=Hwodw89GLba65CMpzNVcUycU9n25tBZOOIlPZcwEk0o&sid=cc015aacdfd7cfd7#ПЛАТНЫЕ БЕЛЫЕ СПИСКИ 2(иногда работают)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836#🇩🇪 ЧЕРНЫЕ СПИСКИ 1  
 hysteria2://strong-secret-pass-777@45.82.245.37:444?sni=www.microsoft.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#ЧЕРНЫЕ СПИСКИ 2 
 hysteria2://strong-secret-pass-777@94.131.105.125:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇳🇱 ЧЕРНЫЕ СПИСКИ 5
@@ -15,10 +12,6 @@ hysteria2://strong-secret-pass-777@45.120.179.89:444/?insecure=1&obfs=salamander
 vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.78:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=chrome&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4&type=tcp#Latvia-VLESS-Reality# ЧЕРНЫЕ СПИСКИ 11
 hysteria2://strong-secret-pass-777@45.82.245.37:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇧🇷 ЧЕРНЫЕ СПИСКИ 12
 hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#| 🇳🇱 ЧЕРНЫЕ СПИСКИ 13
-vless://38315d86-100e-4f49-9c6f-58da5242bcc4@195.3.221.239.vhub.pro:443?type=xhttp&security=tls&sni=195.3.221.239.vhub.pro&alpn=h3,h2&path=%2Fsequre%2Fapi%2Fkey%2Freturn%2Frandom-status#🇵🇱
 hysteria2://strong-secret-pass-777@45.12.134.57:444/?insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&sni=www.microsoft.com#| 🇯🇵 ЧЕРНЫЕ СПИСКИ 14
-vless://099607cb-6964-000a-8e77-19604bb94bb3@89.208.222.204:443?type=tcp&security=reality&sni=5post-gate.x5.ru&fp=random&flow=xtls-rprx-vision&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#Белые списки 1
-vless://3722f792-2c11-000a-b810-59f549989fe8@89.208.222.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#Белые списки 2
-vless://419400b2-e1ed-000a-a5c4-bdc478c04a9b@89.208.222.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#Белые списки 3
-vless://53e9d33b-df69-000a-b0ae-520c1e4bddc3@89.208.222.204:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#Белые списки 4
-vless://e928d85d-f223-07d0-a1d2-a56e9fbd50e0@5.188.141.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323# Белые списки, только если ничего не работает.
+vless://a6abf70b-f734-42e5-ace6-208e4d53d207@95.163.209.155:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=random&pbk=x-VSf_bBIC1iELDvaoM4SKMTK2YAAnUlVkhAWBbvpSc&sid=844886de&type=tcp#RU-Reality-1#Белые списки 1
+vless://f0586d14-aa79-4cab-a456-a52d9f3c6dd5@37.139.32.208:5444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#Белые списки 2
