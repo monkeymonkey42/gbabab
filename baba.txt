@@ -1,8 +1,8 @@
 #profile-title: Впн от темы
 hysteria2://strong-secret-pass-777@45.149.114.75:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026#🇮🇳 ЧЕРНЫЕ СПИСКИ 1
-vless://5ccc6d1f-710e-0003-bf0c-ba3bf26d92a6@217.16.23.183:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇵🇱 ЧЕРНЫЕ СПИСКИ 2
+vless://0319b336-73eb-4478-9fe0-ee6c4c4f3e0b@144.124.232.82:443?type=tcp&encryption=none&security=reality&pbk=pD2AbL0AvAwrNj7-ZyS4mrlLPghTJgZyXVjknypLwnw&fp=firefox&sni=github.com&sid=3a224be12cf1&spx=%2F&flow=xtls-rprx-vision# ЧЕРНЫЕ СПИСКИ 2
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d36nkq54aoc861.cloudfront.net&fp=chrome&type=ws&sni=d36nkq54aoc861.cloudfront.net&alpn=h2%2Chttp%2F1.1# ЧЕРНЫЕ СПИСКИ 3
-vless://5ccc6d1f-710e-0004-bf0c-ba3bf26d92a6@84.23.52.37:8443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇫🇮 ЧЕРНЫЕ СПИСКИ 5
+vless://2f69bdd2-2f3d-4fd1-873f-3b831f074519@212.6.44.122:59361/?type=tcp&security=reality&pbk=9Goh_ltWS57TuO0byxpzIuA6oBxpBQ5r2ZLFWfwp8m0&fp=firefox&sni=google.com&sid=adc93085&spx=%2F# ЧЕРНЫЕ СПИСКИ 5
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=tls&encryption=none&host=d2dh80guserwjs.cloudfront.net&fp=chrome&type=ws&sni=d2dh80guserwjs.cloudfront.net&alpn=h2%2Chttp%2F1.1# ЧЕРНЫЕ СПИСКИ 6
 vless://9b0d95cc-51a9-4911-a4ab-cc8bc78ebf6c@193.222.99.215:443/?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=ikVlok5dGzy9Qk9eSYNUxSOlUZP8cWZw2UtCUFdrLiw&sid=cc56b04fd4b258c5#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
 vless://068af4cf-26ed-47fc-a627-e84f2feab9ce@213.165.220.13:8443?type=tcp&encryption=none&security=reality&pbk=hHe2rdWYTob7nhHTUjF7OGzI11zY1wjXnEk6ibeGcV4&fp=random&sni=api.vk.ru&sid=96f1d0&spx=%2F#🇱🇻ЧЕРНЫЕ СПИСКИ 8
@@ -10,5 +10,7 @@ vless://e57296e1-1f2c-47b5-9e98-3c8dfe453949@138.124.106.35:8443?encryption=none
 vless://c78e4eb5-6cab-4118-a155-662ce18af335@151.243.113.76:443?type=tcp&security=reality&pbk=EhH5dEC4wVthrviFlJykrv3AQiGzKXUCGUtBdKrSSVY&fp=chrome&sni=www.microsoft.com&sid=a137e72d07fd7b68&spx=%2F#🇩🇪 ЧЕРНЫЕ СПИСКИ 11
 vless://d8b156a9-cf87-4d1e-86d5-bbfc823cfc5f@185.121.178.43:4443?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=kBHWk8vTXlowcKWKpE10V5sxa4qtmuYdBSdzc8n83HI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f66bbc95f1f139b1# ЧЕРНЫЕ СПИСКИ 12
 vless://72dcca68-8691-4831-9e10-c30552162394@donotblockpls.ltleonid.ru:443?mode=gun&security=reality&encryption=none&pbk=NbQ6M7eFIWMyXE56KzsF7KwWxB9LaQMuURRAGvi6kRE&fp=chrome&type=grpc&sni=donotblockpls.ltleonid.ru&sid=a6bc9692aca849fc#ЧЕРНЫЕ СПИСКИ 13
+vless://934d165a-0e02-44da-a9ea-7dbb22a9acc4@158.160.218.225:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=4kf5MM_Dw3BZd23dl6OpO6Vt2L4V8hqZyDYjeLa3hl0&sid=3ce7835c&type=tcp#ЧЕРНЫЕ СПИСКИ 14
+hysteria2://667ae209-1d53-4335-85f2-3ae9b6ddb7d2@34.80.157.220:23386?insecure=1&sni=www.bing.com#🇹🇼 ЧЕРНЫЕ СПИСКИ 15
  
 
