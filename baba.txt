@@ -10,14 +10,14 @@ vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?path=%2F&security=t
 vless://9b0d95cc-51a9-4911-a4ab-cc8bc78ebf6c@193.222.99.215:443/?encryption=none&security=reality&flow=xtls-rprx-vision&sni=www.googletagmanager.com&fp=chrome&pbk=ikVlok5dGzy9Qk9eSYNUxSOlUZP8cWZw2UtCUFdrLiw&sid=cc56b04fd4b258c5#🇩🇪 ЧЕРНЫЕ СПИСКИ 4
 vless://068af4cf-26ed-47fc-a627-e84f2feab9ce@213.165.220.13:8443?type=tcp&encryption=none&security=reality&pbk=hHe2rdWYTob7nhHTUjF7OGzI11zY1wjXnEk6ibeGcV4&fp=random&sni=api.vk.ru&sid=96f1d0&spx=%2F#🇱🇻ЧЕРНЫЕ СПИСКИ 5
 vless://e57296e1-1f2c-47b5-9e98-3c8dfe453949@138.124.106.35:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=mM0vO-ETaxsM1FSOxYbC2Yh_Yfnz6yLGescddfze2SU&sid=b60597&packetEncoding=xudp#🇳🇱 ЧЕРНЫЕ СПИСКИ 6
-vless://c78e4eb5-6cab-4118-a155-662ce18af335@151.243.113.76:443?type=tcp&security=reality&pbk=EhH5dEC4wVthrviFlJykrv3AQiGzKXUCGUtBdKrSSVY&fp=chrome&sni=www.microsoft.com&sid=a137e72d07fd7b68&spx=%2F#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
+hy2://sofia:Cp60DAq94l1t3wYkVDcoTUsz8MvcnQ0M@94.159.98.167:1935?insecure=1&sni=x5.ru&obfs=salamander&obfs-password=lNg0yHUiTqwiau64CWROMEj5PMr5VqF&pinSHA256=2F:CE:8E:F6:96:4A:2F:7D:89:4C:9C:44:0D:E8:31:27:3D:06:85:66:3F:F7:BE:45:6F:3E:39:60:27:2B:A3:86#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
 vless://d8b156a9-cf87-4d1e-86d5-bbfc823cfc5f@185.121.178.43:4443?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=kBHWk8vTXlowcKWKpE10V5sxa4qtmuYdBSdzc8n83HI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=f66bbc95f1f139b1#🇩🇪 ЧЕРНЫЕ СПИСКИ 8
 vless://72dcca68-8691-4831-9e10-c30552162394@donotblockpls.ltleonid.ru:443?mode=gun&security=reality&encryption=none&pbk=NbQ6M7eFIWMyXE56KzsF7KwWxB9LaQMuURRAGvi6kRE&fp=chrome&type=grpc&sni=donotblockpls.ltleonid.ru&sid=a6bc9692aca849fc#🇩🇪 ЧЕРНЫЕ СПИСКИ 9
 hysteria2://667ae209-1d53-4335-85f2-3ae9b6ddb7d2@34.80.157.220:23386?insecure=1&sni=www.bing.com#🇹🇼 ЧЕРНЫЕ СПИСКИ 10
 vless://8e2debfd-5b44-48b0-94b7-c1df88522921@lb.yet.ac:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=lb.yet.ac&sni=lb.yet.ac&fp=chrome&pbk=K86_xXwIpXTtjCqzL7bXoDAlsD-oPkQnNfXePAkDWQo&sid=#🇫🇮 ЧЕРНЫЕ СПИСКИ 11
 vless://235be10f-8ac8-4c64-ac8f-51096c5872ed@twvpn.hosts.teleproxy.ru:8443/?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=yandex.ru&fp=randomized&pbk=CVirVmvpnTr5LHSOeXJsfcq_1kkdyolzfd0Rwm6YCUE&sid=48b65fa924db296e#🇳🇱 ЧЕРНЫЕ СПИСКИ 12
 vless://401f0028-0ee2-483a-9339-3b2bf2eb2465@45.83.141.123:17923?type=ws&encryption=none&path=%2F&host=&security=none#🇲🇰 ЧЕРНЫЕ СПИСКИ 13
-vless://34f16e78-fc3a-4315-84d1-64763dd23ec2@144.31.90.75:9443?security=reality&encryption=none&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=2344766a270a6298#🇫🇮 ЧЕРНЫЕ СПИСКИ 14
+hy2://moksha:NEECyXiGAxcS2TUwz6iA4gwYqygtro0J@193.109.69.97:1935/?insecure=1&sni=yahoo.com&obfs=salamander&obfs-password=SQTCEO1Bw6ybuKDSbsrvot5HMCBVOA3F&pinSHA256=08:9B:84:0B:6C:5E:07:7A:25:63:2F:B6:96:60:6A:60:F7:D5:BB:28:DA:BE:4D:67:9C:B9:DB:CF:9B:A6:E7:CE#IPv4#🇳🇱ЧЕРНЫЕ СПИСКИ 14
 
 
  
