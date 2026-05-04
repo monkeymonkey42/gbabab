@@ -11,7 +11,7 @@ vless://cdafdae3-65c6-488e-8d51-7731831455dd@144.31.123.214:37432/?type=grpc&enc
 vless://b6e79d07-d9ab-41b8-89fc-4fd7e34d90af@45.80.231.136:8443?type=grpc&encryption=none&serviceName=Fksap&authority=www.intel.com&security=reality&pbk=19V3T85nPWyW_uxlUFNNk8QvrTE4OCdx6bPntoQNwl4&fp=chrome&sni=www.intel.com&sid=eda93000&spx=%2F#🇩🇪 ЧЕРНЫЕ СПИСКИ 3
 vless://b05be32b-9101-40cb-9b68-f9cb557332ca@45.80.231.136:2053?type=tcp&encryption=none&security=reality&pbk=iHIIKxfwi3rcrqnNoonblw6KCNeI7znqfzN3AV_Enh8&fp=qq&sni=vk.com&sid=18593ffd9678&spx=%2F#🇩🇪 ЧЕРНЫЕ СПИСКИ 4
 vless://1396c82e-f019-47f9-a1ea-9ff1e47a3bd2@fi.sudum.top:443?security=reality&encryption=none&pbk=73xP5vV6DDgJeEpmgf5RuiudiBLUFI2uF6hwP7at2UU&fp=random&spx=%2FrN9roB5hQHCj4q2&type=grpc&sni=fi.sudum.top&sid=10f3219709e477#🇫🇮 ЧЕРНЫЕ СПИСКИ 5
-vless://e57296e1-1f2c-47b5-9e98-3c8dfe453949@138.124.106.35:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=mM0vO-ETaxsM1FSOxYbC2Yh_Yfnz6yLGescddfze2SU&sid=b60597&packetEncoding=xudp#🇳🇱 ЧЕРНЫЕ СПИСКИ 6
+hy2://Ns44i3-w4x@45.155.102.20:8443?insecure=1#🇩🇪 ЧЕРНЫЕ СПИСКИ 6
 hy2://sofia:Cp60DAq94l1t3wYkVDcoTUsz8MvcnQ0M@94.159.98.167:1935?insecure=1&sni=x5.ru&obfs=salamander&obfs-password=lNg0yHUiTqwiau64CWROMEj5PMr5VqF&pinSHA256=2F:CE:8E:F6:96:4A:2F:7D:89:4C:9C:44:0D:E8:31:27:3D:06:85:66:3F:F7:BE:45:6F:3E:39:60:27:2B:A3:86#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
 vless://23ccc34d-3fe3-4767-9966-68fab10953e5@72.56.247.236:443?security=reality&encryption=none&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=f2b78452f9233f26#🇱🇻 ЧЕРНЫЕ СПИСКИ 8
 vless://72dcca68-8691-4831-9e10-c30552162394@donotblockpls.ltleonid.ru:443?mode=gun&security=reality&encryption=none&pbk=NbQ6M7eFIWMyXE56KzsF7KwWxB9LaQMuURRAGvi6kRE&fp=chrome&type=grpc&sni=donotblockpls.ltleonid.ru&sid=a6bc9692aca849fc#🇩🇪 ЧЕРНЫЕ СПИСКИ 9
@@ -34,5 +34,4 @@ vless://23ccc34d-3fe3-4767-9966-68fab10953e5@89.208.211.197:443?security=reality
 vless://013d4144-1304-4032-9449-14355b5ce8e0@82.27.118.11:10443/?type=xhttp&path=%2Fxh-4f21fe8e&mode=auto&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=1_0dW3d8xdI5jlJy-5S9vFDhPotpyrPmkuE8aYbA9V0&sid=067ca94e510e2b84&encryption=none#🇹🇷 ЧЕРНЫЕ СПИСКИ 26
 vless://694693fc-3506-44ce-93b3-9bee11c63ab0@nl1.freekeysh110.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl1.freekeysh110.online&fp=chrome&pbk=Dryfl7HxqeFtvao7wG-pNaEjedU9c041P4EDXQvjsV4&sid=c46911d9258aef4d#🇳🇱 ЧЕРНЫЕ СПИСКИ 27
 vless://8f0e7507-6d5e-4327-b294-37cd28d595f4@45.133.251.196:54338/?type=tcp&encryption=none&flow=#🇩🇪 ЧЕРНЫЕ СПИСКИ 28
-hy2://Ns44i3-w4x@45.155.102.20:8443?insecure=1#🇩🇪 ЧЕРНЫЕ СПИСКИ 29
 
