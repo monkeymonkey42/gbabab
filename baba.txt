@@ -1,6 +1,5 @@
 #profile-title: Впн от темы
 vless://28c0d494-3105-4870-acaf-41cf069c8038@185.22.235.222:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=ads.x5.ru&sid=428ef87fd47a3a32&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none#🇫🇲 БЕЛЫЕ СПИСКИ 1
-vless://32ff78a2-ca97-454f-9824-b5963573044d@158.160.143.1:443?security=reality&encryption=none&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.hatvpn.org&sid=b2ba734eff38baa9#🇫🇷 БЕЛЫЕ СПИСКИ 2
 vless://235be10f-8ac8-4c64-ac8f-51096c5872ed@twvpn.hosts.teleproxy.ru:8443/?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=yandex.ru&fp=randomized&pbk=CVirVmvpnTr5LHSOeXJsfcq_1kkdyolzfd0Rwm6YCUE&sid=48b65fa924db296e#🇳🇱 ЧЕРНЫЕ СПИСКИ 1
 vless://79287e24-8017-4494-9c3c-a94845c56686@wrm.zcxw.ru:8443/?flow=xtls-rprx-vision&type=tcp&security=tls&sni=wrm.zcxw.ru&alpn=h2,http/1.1&fp=chrome#🇨🇭 ЧЕРНЫЕ СПИСКИ 2
 vless://ad5e1da5-dca0-40b2-ae39-e019e15ce6c1@144.31.239.125:36222?type=ws&encryption=none&path=%2F&host=&security=none#🇫🇮 ЧЕРНЫЕ СПИСКИ 3
