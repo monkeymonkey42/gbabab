@@ -9,4 +9,6 @@ vless://f4037e82-9be2-43d6-86c4-bee542581ab0@ger13g.nekosocks.com:4443/?security
 vless://39faf339-f1e5-42b6-b36f-0740d0035fdd@158.160.214.9:443/?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EP6M77X50EcZexsUVbvwLGxFOR1sXnkeG3I_6hIYL0I&security=reality&sid=9f8a2323aee8f4a7&sni=storage.yandexcloud.net&spx=%2FzJHjxZCo6FqyHKu&type=tcp#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
 vless://Goose_91228244@193.42.36.69:443?type=grpc&security=reality&fp=firefox&pbk=AebJSMXwoytGxlpWYK-1JPalRcPNR7X0IC7kogdP820&sni=ya.ru&sid=ffffffffff&spx=%2F#🇵🇱 ЧЕРНЫЕ СПИСКИ 8
 vless://Goose_96225811@45.92.218.205:443?type=grpc&security=reality&fp=firefox&pbk=XNS86ZktdApPVK__nik2SJE5zgncDn3rX6DYajQanW8&sni=ya.ru&sid=ffffffffff&spx=%2F#🇫🇷 ЧЕРНЫЕ СПИСКИ 9
-
+vless://4fd098b3-4f1b-4953-9ead-c0cc2754b147@80.66.65.11:43000?type=tcp&security=reality&pbk=BFXDw0eVUVXZMwJII9HcJvGEGome5EfRxfUaSCW1YxM&fp=chrome&sid=94f28b56&spx=%2F&flow=xtls-rprx-vision#🇷🇺 ЧЕРНЫЕ СПИСКИ 10
+trojan://HWY7w4_Viir_6URWfp-0yQ@31.15.19.44:444?security=none&type=tcp&headerType=&path=&host=#🇳🇱 ЧЕРНЫЕ СПИСКИ 11
+hysteria2://qwopylqxr7m07ri6@153.56.132.181:37318?sni=motahard.lovethosetrains.com&alpn=h3&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=snyfocxnccdzvbye#🇳🇱 ЧЕРНЫЕ СПИСКИ 12
