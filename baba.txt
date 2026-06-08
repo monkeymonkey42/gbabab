@@ -1,7 +1,6 @@
 #profile-title: Впн от темы
 vless://1da3b96e-55af-000e-9147-39e79074aaea@62.152.56.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sfera.x5.ru&fp=firefox&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111&type=tcp#🇵🇱 БЕЛЫЕ СПИСКИ 1
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@146.185.209.234:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&type=tcp#🇳🇱 БЕЛЫЕ СПИСКИ 2
-vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.254:8443?encryption=none&security=reality&sni=loadtest.dev.urent.ru&fp=firefox&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&sid=3722621913893e97&type=grpc&serviceName=/api&mode=multi#🇷🇺 БЕЛЫЕ СПИСКИ 3
+vless://1da3b96e-55af-0012-9147-39e79074aaea@62.152.56.254:8443?encryption=none&security=reality&sni=loadtest.dev.urent.ru&fp=firefox&pbk=36F7ul7R68ih8TAKPfHnqEvw_23kWNgOXCrfQKK3MXQ&sid=3722621913893e97&type=grpc&serviceName=/api&mode=multi#🇷🇺 БЕЛЫЕ СПИСКИ 2
 vless://235be10f-8ac8-4c64-ac8f-51096c5872ed@twvpn.hosts.teleproxy.ru:8443/?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=yandex.ru&fp=randomized&pbk=CVirVmvpnTr5LHSOeXJsfcq_1kkdyolzfd0Rwm6YCUE&sid=48b65fa924db296e#🇳🇱 ЧЕРНЫЕ СПИСКИ 1
 vless://79287e24-8017-4494-9c3c-a94845c56686@wrm.zcxw.ru:8443/?flow=xtls-rprx-vision&type=tcp&security=tls&sni=wrm.zcxw.ru&alpn=h2,http/1.1&fp=chrome#🇨🇭 ЧЕРНЫЕ СПИСКИ 2
 vless://ad5e1da5-dca0-40b2-ae39-e019e15ce6c1@144.31.239.125:36222?type=ws&encryption=none&path=%2F&host=&security=none#🇫🇮 ЧЕРНЫЕ СПИСКИ 3
@@ -16,4 +15,3 @@ vless://0a963275-4865-452b-8d65-ac67344f913a@2.26.130.132:443?encryption=none&fl
 trojan://omt3GWaHGx@gb1.xxee.ru:443?security=tls&type=grpc&serviceName=%2F53425%2F3JBwaX0m&authority=gb1.xxee.ru#🇬🇧 ЧЕРНЫЕ СПИСКИ 12
 trojan://omt3GWaHGx@pl1.xxee.ru:443?security=tls&type=grpc&serviceName=%2F36191%2FEixVE3fr&authority=pl1.xxee.ru#🇵🇱 ЧЕРНЫЕ СПИСКИ 13
 trojan://omt3GWaHGx@bvlgari.1o0.net:443?security=tls&type=grpc&serviceName=%2F55809%2FAh5kf3Cq&authority=bvlgari.1o0.net#🇧🇬 ЧЕРНЫЕ СПИСКИ 14
-trojan://omt3GWaHGx@burger.1o0.net:443?security=tls&type=grpc&serviceName=%2F62124%2FfDEp9lXP&authority=burger.1o0.net#🇺🇸 ЧЕРНЫЕ СПИСКИ 15
