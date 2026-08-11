@@ -1,6 +1,6 @@
 #profile-title: Впн от темы
-vless://803cc2b1-1d59-4029-8089-314b4d43eaa6@77.232.42.236:80?type=ws&encryption=none&path=%2Fvless&host=&security=none#🇩🇪 ЧЕРНЫЕ СПИСКИ 1
-vless://8094657c-19ab-400a-9414-2bc12c0162a8@lvws.connectalternative.org:25449?encryption=none&security=tls&sni=lvws.connectalternative.org&type=ws&host=lvws.connectalternative.org&path=%2Fws#🇱🇻 ЧЕРНЫЕ СПИСКИ 2
+vless://803cc2b1-1d59-4029-8089-314b4d43eaa6@77.232.42.236:80?type=ws&encryption=none&path=%2Fvless&host=&security=none#🇩🇪 ЧЕРНЫЕ СПИСКИ 1(gemini)
+vless://8094657c-19ab-400a-9414-2bc12c0162a8@lvws.connectalternative.org:25449?encryption=none&security=tls&sni=lvws.connectalternative.org&type=ws&host=lvws.connectalternative.org&path=%2Fws#🇱🇻 ЧЕРНЫЕ СПИСКИ 2(no gem)
 vless://3e3c8048-7c3a-4ae2-8251-37c743282288@nl-2.krustykrap.shop:53103?encryption=none&type=tcp&headerType=none&security=tls&fp=firefox&sni=ea.com
-vless://1d3b0541-72ac-4bf7-8bfc-cc7831eeec09@modlist.itdmc.ru:443?fp=firefox&pbk=n-1GJKOH_-a6lE0lkL7q9RFeQgWy2fAEbcWtoCsfBik&security=reality&sid=52ac3946900f2506&sni=modpack.itdmc.ru&spx=%2Fe5ff619ba9924b4&type=tcp#🇳🇱 ЧЕРНЫЕ СПИСКИ 4
-vless://8ceecbd9-0fc6-48fc-aaea-dbfd0086e5d4@2.26.28.51:443/?pbk=S3sONGpPgzjxOHTw_qZObRYHDzYGIv3d5s3JQs7vQWQ&sid=e94b73c84cf02f&serviceName=grpc-tunnel&spx=%2F6Z6Fs8bivsmTYWq&type=grpc&sni=dl.google.com&security=reality&encryption=none&fp=chrome#🇫🇮 ЧЕРНЫЕ СПИСКИ 5
+vless://1d3b0541-72ac-4bf7-8bfc-cc7831eeec09@modlist.itdmc.ru:443?fp=firefox&pbk=n-1GJKOH_-a6lE0lkL7q9RFeQgWy2fAEbcWtoCsfBik&security=reality&sid=52ac3946900f2506&sni=modpack.itdmc.ru&spx=%2Fe5ff619ba9924b4&type=tcp#🇳🇱 ЧЕРНЫЕ СПИСКИ 4(no gem)
+vless://8ceecbd9-0fc6-48fc-aaea-dbfd0086e5d4@2.26.28.51:443/?pbk=S3sONGpPgzjxOHTw_qZObRYHDzYGIv3d5s3JQs7vQWQ&sid=e94b73c84cf02f&serviceName=grpc-tunnel&spx=%2F6Z6Fs8bivsmTYWq&type=grpc&sni=dl.google.com&security=reality&encryption=none&fp=chrome#🇫🇮 ЧЕРНЫЕ СПИСКИ 5(no gem)
