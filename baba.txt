@@ -6,4 +6,5 @@ vless://59c372b9-b828-45fd-912b-77ddc8ecfe13@212.227.183.193:8443/?type=tcp&head
 hysteria2://b02eba4a-63dc-4336-aeed-423c3eb45701@176.108.251.61:8443/?sni=uploaded.hexgram.online&alpn=h3#🇫🇮 ЧЕРНЫЕ СПИСКИ 3
 vless://30c71327-4dd4-4c1a-a1df-85b7b7fd4675@mydak.space:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=lyrwJ8rjkZnwlKq8lmUBVYQ7iIvQhQVc4Ye6tz2KUgs&sid=e52855434cbd2ef1&packetEncoding=xudp#🇩🇪 ЧЕРНЫЕ СПИСКИ 4
 vless://b02eba4a-63dc-4336-aeed-423c3eb45701@144.31.153.28:443?type=ws&security=tls&sni=hexgram.ru&alpn=h2&host=hexgram.ru&path=%2Fapi%2Fv1%2Fstream%2Flive&fp=chrome&encryption=none#🇫🇮 ЧЕРНЫЕ СПИСКИ 5
-
+hysteria2://7ad9k1q5un2xcpj1@46.8.112.150:8443?alpn=h3&fp=firefox&obfs=salamander&obfs-password=endlhgykdxcnqggx&security=tls&sni=venamus.ru#🇳🇱 ЧЕРНЫЕ СПИСКИ 6
+vless://daf8e09d-90b6-4ef6-b3d7-a3b962939827@xui-nl-reserve-2.metamentor.pro:25482/?insecure=0&fp=edge&headerType=none&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&type=tcp&security=tls&allowInsecure=0#🇳🇱 ЧЕРНЫЕ СПИСКИ 7
