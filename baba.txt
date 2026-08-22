@@ -6,4 +6,6 @@ vless://30c71327-4dd4-4c1a-a1df-85b7b7fd4675@mydak.space:2053/?type=tcp&encrypti
 hysteria2://7ad9k1q5un2xcpj1@46.8.112.150:8443?alpn=h3&fp=firefox&obfs=salamander&obfs-password=endlhgykdxcnqggx&security=tls&sni=venamus.ru#🇳🇱 ЧЕРНЫЕ СПИСКИ 5
 vless://deac8277-0077-4c8a-a44d-bc4f2bda9cf6@65.38.121.147:18443?security=reality&encryption=none&authority=2&pbk=xo2rPAt34Xgmx7R0Ocqg-VFsnUTzhdEZrIgEPf4H1QQ&fp=chrome&spx=%2FL4cJkp7y4zJeURy&type=grpc&serviceName=1&sni=github.com&sid=0039930e35272c#🇷🇴 ЧЕРНЫЕ СПИСКИ 6
 vless://77165adb-4d3c-4c79-a950-dcb02fd9dc23@94.159.97.93:2040?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=hflmOH-hPBoTgUR9d9AVqMs2_4mi1bZEiMkLs-7KBHQ&sid=7b8bcbf7015b3724#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
+vless://3c6ad395-fbb9-4082-aa9d-55a69aa1f439@185.246.191.222:443?security=reality&encryption=none&pbk=Gqbcp-ud4PkP7S3sfg657PGLcB20UnKI_niUbysb3EU&fp=chrome&spx=%2F&type=grpc&serviceName=def56b77b79c&sni=www.cloudflare.com&sid=1fd44a197a954939#🇫🇮 ЧЕРНЫЕ СПИСКИ 8
+vless://24fbcb1d-1489-4e30-80bd-84525fe2afba@89.169.52.46:44731?encryption=none#🇩🇪 ЧЕРНЫЕ СПИСКИ 9
 
