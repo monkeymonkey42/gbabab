@@ -1,9 +1,9 @@
 #profile-title: Впн от темы
-vless://b02eba4a-63dc-4336-aeed-423c3eb45701@185.71.67.222:443?type=ws&security=tls&sni=vibe.hexgram.ru&alpn=http%2F1.1&host=vibe.hexgram.ru&path=%2Fapi%2Fv1%2Fstream%2Flive&fp=firefox&encryption=none#🇷🇺 белые списки 1
-vless://b02eba4a-63dc-4336-aeed-423c3eb45701@185.71.67.222:443?type=ws&security=tls&sni=vibe.hexgram.ru&alpn=http%2F1.1&host=vibe.hexgram.ru&path=%2Fapi%2Fv1%2Fnotifications%2Fsubscribe&fp=firefox&encryption=none#🇫🇮 Белые списки 2
-vless://803cc2b1-1d59-4029-8089-314b4d43eaa6@77.232.42.236:80?type=ws&encryption=none&path=%2Fvless&host=&security=none#🇩🇪 ЧЕРНЫЕ СПИСКИ 1
+vless://43962a4b-517a-41ac-818c-c6b9ac2390f5@82.40.37.119:443?encryption=none&fp=firefox&pbk=c9kmhn2gG7ZyFXZyt99hRoDt3QjfaAbetqf-bZL7NlY&security=reality&sid=a7&sni=www.nvidia.com&spx=%2F9fa7457cfbcdc6e&type=tcp#🇵🇱 ЧЕРНЫЕ СПИСКИ 1
 vless://59c372b9-b828-45fd-912b-77ddc8ecfe13@212.227.183.193:8443/?type=tcp&headerType=none&security=reality&fp=chrome&sni=g.co&pbk=29m2V-LIGbLPM6UBi2PlHYkTbtHwK8AnwzCdEEX79j8&sid=536d5769d2a8&spx=/959be8eb724c564#🇩🇪 ЧЕРНЫЕ СПИСКИ 2
 vless://a802c02a-eac9-4f06-ad51-c7b2d3393967@78.17.28.95:8443/?encryption=none#🇫🇮 ЧЕРНЫЕ СПИСКИ 3
 vless://30c71327-4dd4-4c1a-a1df-85b7b7fd4675@mydak.space:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=lyrwJ8rjkZnwlKq8lmUBVYQ7iIvQhQVc4Ye6tz2KUgs&sid=e52855434cbd2ef1&packetEncoding=xudp#🇩🇪 ЧЕРНЫЕ СПИСКИ 4
 hysteria2://7ad9k1q5un2xcpj1@46.8.112.150:8443?alpn=h3&fp=firefox&obfs=salamander&obfs-password=endlhgykdxcnqggx&security=tls&sni=venamus.ru#🇳🇱 ЧЕРНЫЕ СПИСКИ 5
-vless://daf8e09d-90b6-4ef6-b3d7-a3b962939827@xui-nl-reserve-2.metamentor.pro:25482/?insecure=0&fp=edge&headerType=none&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&type=tcp&security=tls&allowInsecure=0#🇳🇱 ЧЕРНЫЕ СПИСКИ 6
+vless://deac8277-0077-4c8a-a44d-bc4f2bda9cf6@65.38.121.147:18443?security=reality&encryption=none&authority=2&pbk=xo2rPAt34Xgmx7R0Ocqg-VFsnUTzhdEZrIgEPf4H1QQ&fp=chrome&spx=%2FL4cJkp7y4zJeURy&type=grpc&serviceName=1&sni=github.com&sid=0039930e35272c#🇷🇴 ЧЕРНЫЕ СПИСКИ 6
+vless://77165adb-4d3c-4c79-a950-dcb02fd9dc23@94.159.97.93:2040?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=hflmOH-hPBoTgUR9d9AVqMs2_4mi1bZEiMkLs-7KBHQ&sid=7b8bcbf7015b3724#🇩🇪 ЧЕРНЫЕ СПИСКИ 7
+
