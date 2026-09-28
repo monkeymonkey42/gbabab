@@ -1,8 +1,8 @@
 #profile-title: Впн от темы
 vless://59c372b9-b828-45fd-912b-77ddc8ecfe13@212.227.183.193:8443/?type=tcp&headerType=none&security=reality&fp=chrome&sni=g.co&pbk=29m2V-LIGbLPM6UBi2PlHYkTbtHwK8AnwzCdEEX79j8&sid=536d5769d2a8&spx=/959be8eb724c564#🇩🇪 ЧЕРНЫЕ СПИСКИ 1
-vless://464ef0a2-b009-4575-8182-8b63af75ac89@151.243.217.135:40465?encryption=none&fp=firefox&pbk=GlMxuCt_kMcz04pit2l52HUoA5EEHoDjL9Ub5uaKdjo&security=reality&sid=b630f7edd1ebc9&sni=images.apple.com&spx=%2F86ceb93a9dc2f27&type=tcp#🇫🇷 ЧЕРНЫЕ СПИСКИ 2
-vless://30c71327-4dd4-4c1a-a1df-85b7b7fd4675@mydak.space:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=lyrwJ8rjkZnwlKq8lmUBVYQ7iIvQhQVc4Ye6tz2KUgs&sid=e52855434cbd2ef1&packetEncoding=xudp#🇩🇪 ЧЕРНЫЕ СПИСКИ 3
+vless://eb1cec69-aa84-490b-985c-45cc8bd04924@81.90.21.3:24276?encryption=none&security=none&type=tcp&headerType=none#🇸🇪 ЧЕРНЫЕ СПИСКИ 2
+vless://42a6c917-5426-40e2-b542-030b6ef6c0a1@153.76.194.27:443?encryption=none&security=reality&sni=www.helsinki.fi&fp=chrome&pbk=FK1UCmQejvjmlMhB03xfz3eD7nbFfI8BD-suIxFoE2M&sid=adb0e79c&type=tcp&headerType=none&spx=%2Fe459c534bd161eb#🇫🇮 ЧЕРНЫЕ СПИСКИ 3
 vless://deac8277-0077-4c8a-a44d-bc4f2bda9cf6@65.38.121.147:18443?security=reality&encryption=none&authority=2&pbk=xo2rPAt34Xgmx7R0Ocqg-VFsnUTzhdEZrIgEPf4H1QQ&fp=chrome&spx=%2FL4cJkp7y4zJeURy&type=grpc&serviceName=1&sni=github.com&sid=0039930e35272c#🇷🇴 ЧЕРНЫЕ СПИСКИ 4
 vless://77165adb-4d3c-4c79-a950-dcb02fd9dc23@94.159.97.93:2040?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=hflmOH-hPBoTgUR9d9AVqMs2_4mi1bZEiMkLs-7KBHQ&sid=7b8bcbf7015b3724#🇩🇪 ЧЕРНЫЕ СПИСКИ 5
-
+vless://4ffc5e41-5a5c-486f-b31e-0b111d3eb3c4@5.129.199.42:443?encryption=none&security=tls&sni=watchtg.site&type=ws&host=watchtg.site&path=%2F481ed590502df9cab6efab9a3a080f92a7e92dd09aab1f1a#🇬🇧 ЧЕРНЫЕ СПИСКИ 6
 
